@@ -4,3 +4,6 @@
 [submodule "hugo-conference"]
 	path = hugo-conference
 	url = https://github.com/Streppel/hugo-conference
+[submodule "themes/hugo-conference-kotlin-cwb-2019"]
+	path = themes/hugo-conference-kotlin-cwb-2019
+	url = https://github.com/Streppel/hugo-conference
