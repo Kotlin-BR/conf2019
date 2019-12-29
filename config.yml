@@ -1,19 +1,19 @@
 baseurl: "https://kotlinconf-brasil.netlify.com/"
 title: "Conference name"
 canonifyurls: true
-theme: "hugo-conference"
+theme: "hugo-conference-kotlin-cwb-2019"
 
 GoogleAnalytics: ""
 
 params:
   # Conference info
-  Name: "Conference name"
+  Name: "KotlinConf 2019 Global - Curitiba"
   Description: "Conference description"
-  Date: "November 15"
+  Date: "25 de Janeiro de 2020"
   Price: "Only $100" # If your event is free, just comment this line
-  Venue: "Coco Bongo"
+  Venue: "na Contabilizei"
   Address: "Boulevard Kukulcan, 30"
-  City:  "Cancún"
+  City:  "em Curitiba"
   State: "Quintana"
   Images: ["/img/badge.jpg"]
   GoogleMapsKey: "my-secret-maps-key"
