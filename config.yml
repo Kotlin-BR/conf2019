@@ -8,22 +8,27 @@ GoogleAnalytics: ""
 params:
   # Conference info
   Name: "KotlinConf 2019 Global - Curitiba"
-  Description: "Conference description"
+  Description: "1ª conferência de Kotlin no Brasil"
   Date: "25 de Janeiro de 2020"
-  Price: "Only $100" # If your event is free, just comment this line
+  # Price: "Only $100" # If your event is free, just comment this line
   Venue: "na Contabilizei"
   Address: "Boulevard Kukulcan, 30"
   City:  "em Curitiba"
   State: "Quintana"
   Images: ["/img/badge.jpg"]
   GoogleMapsKey: "my-secret-maps-key"
-  whoami: A KotlinConf de Copenhagen ganha sua versão brasileira em Curitiba!<br><br>Através do movimento KotlinConf 2019 Global, teremos um dia inteiro de imersão na linguagem e seu ecossistema em um ambiente perfeito para a troca de ideias e aprendizado.<br><br>Compareça, é grátis!<br><br>
+  whoami: > 
+    A KotlinConf de Copenhagen ganha sua versão brasileira em Curitiba! 
+
+    Através do movimento KotlinConf 2019 Global, teremos um dia inteiro de imersão na linguagem e seu ecossistema em um ambiente perfeito para a troca de ideias e aprendizado.
+    
+    Compareça, é grátis!
 
   # Active sections on the website to deactivate comment out with '#'
   # you can also change order here and it will reflect on page
   Sections:
     - about
-    - location
+    # - location
     - speakers
     - schedule
     - sponsors
@@ -32,12 +37,12 @@ params:
 
   # Titles which you can translate to other languages
   Titles:
-    about: "About"
+    about: "C4P"
     location: "Location"
-    speakers: "Speakers"
-    schedule: "Schedule"
-    sponsors: "Sponsors"
-    partners: "Partners"
+    speakers: "Palestrantes"
+    schedule: "Agenda"
+    sponsors: "Patrocinadores"
+    partners: "Parceiros"
     contact: "Contact"
 
   # The Call To Action button at the header,
@@ -46,8 +51,9 @@ params:
     text: "Cadastre-se!"
     link: "https://www.meetup.com/KotlinCWB/events/265941182/"
   C4P:
-    text: "Inscreva-se para palestrar"
+    buttontext: "Inscreva-se para palestrar"
     link: "https://sessionize.com/kotlin-conf-2019-curitiba/"
+    text: "oee kakaka"
 
   # Fork me on GitHub, if you don't want this, just remove the forkButton property
   ForkButton:
