@@ -53,7 +53,7 @@ params:
   C4P:
     buttontext: "Inscreva-se para palestrar"
     link: "https://sessionize.com/kotlin-conf-2019-curitiba/"
-    text: "oee kakaka"
+    text: "A lista de chamada para palestrantes está aberta! Clique no link e cadastre sua talk até o dia 11 de janeiro de 2020."
 
   # Fork me on GitHub, if you don't want this, just remove the forkButton property
   ForkButton:
