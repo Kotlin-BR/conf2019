@@ -1,5 +1,5 @@
 baseurl: "https://kotlinconf-brasil.netlify.com/"
-title: "Conference name"
+title: "KotlinConf 2019 Global Curitiba"
 canonifyurls: true
 theme: "hugo-conference-kotlin-cwb-2019"
 
@@ -17,6 +17,7 @@ params:
   State: "Quintana"
   Images: ["/img/badge.jpg"]
   GoogleMapsKey: "my-secret-maps-key"
+  whoami: A KotlinConf de Copenhagen ganha sua versão brasileira em Curitiba!<br><br>Através do movimento KotlinConf 2019 Global, teremos um dia inteiro de imersão na linguagem e seu ecossistema em um ambiente perfeito para a troca de ideias e aprendizado.<br><br>Compareça, é grátis!<br><br>
 
   # Active sections on the website to deactivate comment out with '#'
   # you can also change order here and it will reflect on page
@@ -42,8 +43,11 @@ params:
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
   CallToAction:
-    text: "Register now!"
-    link: "http://register.example.com"
+    text: "Cadastre-se!"
+    link: "https://www.meetup.com/KotlinCWB/events/265941182/"
+  C4P:
+    text: "Inscreva-se para palestrar"
+    link: "https://sessionize.com/kotlin-conf-2019-curitiba/"
 
   # Fork me on GitHub, if you don't want this, just remove the forkButton property
   ForkButton:
@@ -51,15 +55,15 @@ params:
 
   # List of Sponsors
   Sponsors:
-    - name: "Hugo"
-      logo: "/img/hugo.png"
-      url: "http://gohugo.io"
+    - name: "Jetbrains"
+      logo: "/img/jetbrains.svg"
+      url: "https://www.jetbrains.com"
 
   # List of Partners
   Partners:
-    - name: "Hugo"
-      logo: "/img/hugo.jpg"
-      url: "https://gohugo.io"
+    - name: "Contabilizei"
+      logo: "/img/contabilizei.png"
+      url: "https://www.contabilizei.com.br"
     - name: "BrazilJS"
       logo: "/img/partner.png"
       url: "http://braziljs.org"
