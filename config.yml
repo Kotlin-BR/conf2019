@@ -140,7 +140,7 @@ params:
         href: "https://www.linkedin.com/in/silvajd8/"
         text: "@silvajd8"
       presentation:
-        title: "Uma jornada serveless com Kotlin e Azure"
+        title: "Uma jornada serverless com Kotlin e Azure"
         description: "Abordaremos um fluxo no padrão Saga implementado utilizando Azure functions com Kotlin"
 
     - name: "Gabriel Machado"
