@@ -148,8 +148,8 @@ params:
       bio: "Desenvolvedor backend há 3 anos, entusiasta de Kotlin há 2. Cursando Sistemas de Informação na UFSC."
       company: "Aurum Software"
       link:
-        href: "https://www.linkedin.com/in/silvajd8/"
-        text: "@silvajd8"
+        href: "https://www.linkedin.com/in/gabriel-machado-da-roza/"
+        text: "@gabriel"
       presentation:
         title: "O que há de novo em Spring + Kotlin"
         description: "Veremos projetos que estão sendo desenvolvidos pela Pivotal e a comunidade para tornar a integração entre a linguagem e o framework mais idiomática o possível."
