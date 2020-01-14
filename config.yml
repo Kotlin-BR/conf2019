@@ -100,7 +100,7 @@ params:
         description: "Nesta palestra, iremos falar sobre as duas linguagens e mostrar resultados de um caso de estudo onde foi utilizado métricas como tempo de desenvolvimento, linhas de código, desempenho e usabilidade."
         
     - name: "Paulo Henrique Figueredo"
-      photo: "/img/ph.jpg"
+      photo: "/img/ph.jpeg"
       bio: "Desenvolvedor Full Stack, com 5 anos de experiência, trabalhou na PRODEB(Processamento de dados da Bahia), PGE(Procuradoria Geral do Estado) e atualmente trabalha na Contabilizei em Curitiba, utiliza Kotlin com a JMV há 4 meses e entes disso havia trabalhado com Android(Kotlin) em um projeto de 5 meses."
       company: "Contabilizei"
       link:
@@ -166,7 +166,7 @@ params:
         description: "Mostrarei como usar kotlin no backend com Java, também como é fácil desenvolver para aplicação Mobile e farei uma demonstração de como traduzir uma classe de kotlin para Java"
 
     - name: "Felipe Costa"
-      photo: "/img/felipe.jpg"
+      photo: "/img/felipe.jpeg"
       bio: "Passionate Software Craftsman specializing in Mobile Applications, especially on Android platform, and committed to the projects that I take part on and self-oriented following the best technical practices like TDD, Behavior-Driven Development (BDD), refactoring, pair programming and continuous delivery alongside with Agile Practices. Seeking to work in a collaborative way with clients and other developers learning and sharing knowledge as much as possible. I have been developing mobile applications since 2011 and enjoying it mostly in Kotlin since 2016."
       company: "OLX"
       link:
