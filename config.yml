@@ -89,7 +89,7 @@ params:
         
 
     - name: "Renan Narciso"
-      photo: "/img/renan.jpg"
+      photo: "/img/renan.png"
       bio: "Trabalhou como desenvolvedor de software no parque tecnológico da UFRJ para empresas como Siemens e Petrobrás. Carioca, 23 anos e formado em Sistemas de Informação - UGRIO."
       company: ""
       link:
