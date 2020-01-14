@@ -112,7 +112,7 @@ params:
   
     - name: "Natan Streppel"
       photo: "/img/natan.jpg"
-      bio: "Desenvolvedor há mais de 6 anos com grande interesse em qualidade de código e arquiteturas escaláveis"
+      bio: "Desenvolvedor há mais de 6 anos com grande interesse em qualidade de código e arquiteturas escaláveis, trabalha atualmente utilizando Go e Kotlin na bornlogic."
       company: "Contabilizei"
       link:
         href: "https://br.linkedin.com/in/natanstreppel"
@@ -126,8 +126,8 @@ params:
       bio: "Desenvolvedor Android na Pixelwolf, Pós Graduado em Engenharia de Software e Pós Graduando em App Development. 9 anos na área da Tecnologia e recém chegado no desenvolvimento mobile."
       company: "Pixelwolf"
       link:
-        href: ""
-        text: ""
+        href: "https://www.linkedin.com/in/pradoeduardoluiz/"
+        text: "@pradoeduardoluiz"
       presentation:
         title: "Scope Functions - Uma forma Kotlin de codar"
         description: "Nesta talk nos aprofundaremos no que são scope functions, suas características e suas diferenças."
@@ -159,8 +159,8 @@ params:
       bio: "Analista de Sistemas Java, experiencia de oito anos de mercado."
       company: "GFT"
       link:
-        href: ""
-        text: ""
+        href: "https://www.linkedin.com/in/francielle-oliveira-da-luz-8b160046/"
+        text: "@francielle"
       presentation:
         title: "Kotlin funcional e divertido"
         description: "Mostrarei como usar kotlin no backend com Java, também como é fácil desenvolver para aplicação Mobile e farei uma demonstração de como traduzir uma classe de kotlin para Java"
