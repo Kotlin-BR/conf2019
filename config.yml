@@ -73,7 +73,9 @@ params:
     - name: "Women Techmakers"
       logo: "/img/wtm.png"
       url: "https://www.meetup.com/Women-Techmakers-Curitiba/"
-
+    - name: "bornlogic"
+      logo: "/img/bl.jpg"
+      url: "http://www.bornlogic.com"
   # The entire schedule
   Schedule:
     # - name: "Check-in / Breakfast"
