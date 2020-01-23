@@ -30,7 +30,7 @@ params:
     # - about
     # - location
     - speakers
-    # - schedule
+    - schedule
     - sponsors
     - partners
     #- contact
