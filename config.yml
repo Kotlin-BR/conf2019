@@ -134,6 +134,10 @@ params:
         title: "gRPC + Kotlin = Great Success"
         description: "Quando pensamos em comunicação entre sistemas atualmente, o que nos vem à mente são chamadas HTTP utilizando JSON. Mas será só isso que existe de melhor no mundo atual da tecnologia? Aprenderemos o que é a tecnologia gRPC e Proto Buffers; em que situação podemos utilizá-la, e como implementar um client-server utilizando Kotlin!"
 
+      
+    - name: "Almoço"
+      time: "12h00"
+
     - name: "Thiago Alexandre Lenz"
       photo: "/img/thiago.jpg"  
       bio: "Trabalha com desenvolvimento de software há mais de 12 anos. Formado em Análise de Sistemas, pós graduado na área de engenharia de software pela UTFPR e MBA em Arquitetura de Software pelo IGTI."
