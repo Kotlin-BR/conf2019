@@ -130,7 +130,7 @@ params:
         text: "@natanstreppel"
       presentation:
         title: "gRPC + Kotlin = Great Success"
-        description: "Aprenderemos o que é a tecnologia gRPC e Proto Buffers; em que situação podemos utilizá-la, e como implementar um client-server utilizando Kotlin!"
+        description: "Quando pensamos em comunicação entre sistemas hoje em dia, o que nos vem à mente são chamadas HTTP utilizando REST. Mas será só isso que existe de melhor no mundo atual da tecnologia? Aprenderemos o que é a tecnologia gRPC e Proto Buffers; em que situação podemos utilizá-la, e como implementar um client-server utilizando Kotlin!"
 
     - name: "Thiago Alexandre Lenz"
       time: "13h20"  
