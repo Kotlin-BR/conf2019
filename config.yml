@@ -118,7 +118,7 @@ params:
         href: "http://fabriciorissetto.com/blog/"
         text: "blog"
       presentation:
-        time: "09h55"
+        time: "10h20"
         title: "Functional Domain Driven Design"
         description: "Um dos pensamentos que domina a mente de muitas pessoas quando se fala de programação funcional é acreditar que o paradigma é excludente às práticas de orientação à objetos que já conhecemos. Quando, na verdade, a união dos dois pode nos trazer ainda mais vantagens. Nessa apresentação queremos desmistificar esse pensamento e mostrar que sim, é possível utilizar as duas práticas em conjunto para construir aplicações de alta qualidade. Descubra como trouxemos para dentro do DDD, design conhecido por ser extremamente orientado à objetos, elementos funcionais como Monads, Imutabilidade e Higher Order Functions, construindo um domínio 100% puro."
       
