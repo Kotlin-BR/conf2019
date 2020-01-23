@@ -131,7 +131,7 @@ params:
       presentation:
         time: "11h05"  
         title: "gRPC + Kotlin = Great Success"
-        description: "Quando pensamos em comunicação entre sistemas hoje em dia, o que nos vem à mente são chamadas HTTP utilizando REST. Mas será só isso que existe de melhor no mundo atual da tecnologia? Aprenderemos o que é a tecnologia gRPC e Proto Buffers; em que situação podemos utilizá-la, e como implementar um client-server utilizando Kotlin!"
+        description: "Quando pensamos em comunicação entre sistemas atualmente, o que nos vem à mente são chamadas HTTP utilizando JSON. Mas será só isso que existe de melhor no mundo atual da tecnologia? Aprenderemos o que é a tecnologia gRPC e Proto Buffers; em que situação podemos utilizá-la, e como implementar um client-server utilizando Kotlin!"
 
     - name: "Thiago Alexandre Lenz"
       photo: "/img/thiago.jpg"  
