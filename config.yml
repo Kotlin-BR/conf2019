@@ -78,67 +78,15 @@ params:
       url: "http://www.bornlogic.com"
   # The entire schedule
   Schedule:
-    # - name: "Check-in / Breakfast"
-    #   time: "9h00"
+    - name: "Check-in / Credenciamento"
+      time: "08h00"
 
-    - name: "Thiago Alexandre Lenz"
-      photo: "/img/thiago.jpg"
-      bio: "Trabalha com desenvolvimento de software há mais de 12 anos. Formado em Análise de Sistemas, pós graduado na área de engenharia de software pela UTFPR e MBA em Arquitetura de Software pelo IGTI."
-      company: "Contabilizei"
-      link:
-        href: "https://medium.com/@thiagolenz"
-        text: "@thiagolenz"
-      presentation:
-        title: "Transformação Otimizada de Objetos em Kotlin"
-        description: "Para quem vem do mundo java sabe como é verboso uma conversão de um objeto DTO para uma entidade (vice-versa) ou ainda a conversão de coleções de um tipo para outro (Lista para mapa, mapa para lista). Java 8 trouxe muita simplificação com o uso de lambdas, mas mesmo assim não é o suficiente. Essas palestra apresenta como esse problema pode ser resolvido de forma inteligente e rápida em Kotlin, escrevendo menos código de transformação e mais código de negócio, com entrega de valor."
-        
+    - name: "Abertura"
+      time: "08h30"
 
-    - name: "Renan Narciso"
-      photo: "/img/renan.png"
-      bio: "Trabalhou como desenvolvedor de software no parque tecnológico da UFRJ para empresas como Siemens e Petrobrás. Carioca, 23 anos e formado em Sistemas de Informação - UGRIO."
-      company: ""
-      link:
-        href: "https://www.linkedin.com/in/renannarciso"
-        text: "@rennannarciso"
-      presentation:
-        title: "Análise comparativa entre Java e Kotlin: Um desenvolvimento experimental em aplicações móveis"
-        description: "Nesta palestra, iremos falar sobre as duas linguagens e mostrar resultados de um caso de estudo onde foi utilizado métricas como tempo de desenvolvimento, linhas de código, desempenho e usabilidade."
-        
-    - name: "Paulo Henrique Figueredo"
-      photo: "/img/ph.jpeg"
-      bio: "Desenvolvedor Full Stack, com 5 anos de experiência, trabalhou na PRODEB(Processamento de dados da Bahia), PGE(Procuradoria Geral do Estado) e atualmente trabalha na Contabilizei em Curitiba, utiliza Kotlin com a JMV há 4 meses e entes disso havia trabalhado com Android(Kotlin) em um projeto de 5 meses."
-      company: "Contabilizei"
-      link:
-        href: "https://twitter.com/PauloDSHenrique"
-        text: "@PauloDSHenrique"
-      presentation:
-        title: "Mudança de paradigma, interoperabilidade com java e JVMcmd"
-        description: "O kotlin e o java são linguagens muito próximas pois ambos são executados na JVM ainda assim o kotlin deve ser tratado com a sua respectiva metodologia de desenvolvimento e paradigma, para poder extrair o seu poder total preservando a interoperabilidade saudável com java. Meu nome é Paulo Henrique, trabalho na contabilizei a 5 meses, essa palestra tem como objetivo abordar as mudanças de paradigma de programação entre kotlin e java considerando o melhor uso do kotlin e a interoperabilidade com java e como resolver possíveis desafios encontrado ao interoperar essas duas linguagens, e por fim, a utilização de comandos da JVM para otimizar a compilação do código kotlin."
-  
-    - name: "Natan Streppel"
-      photo: "/img/natan.jpg"
-      bio: "Desenvolvedor há mais de 6 anos com grande interesse em qualidade de código e arquiteturas escaláveis, trabalha atualmente utilizando Go e Kotlin na bornlogic."
-      company: "Contabilizei"
-      link:
-        href: "https://br.linkedin.com/in/natanstreppel"
-        text: "@natanstreppel"
-      presentation:
-        title: "gRPC + Kotlin = Great Success"
-        description: ""
-  
-    - name: "Luiz Eduardo do Prado"
-      photo: "/img/luiz.jpg"
-      bio: "Desenvolvedor Android na Pixelwolf, Pós Graduado em Engenharia de Software e Pós Graduando em App Development. 9 anos na área da Tecnologia e recém chegado no desenvolvimento mobile."
-      company: "Pixelwolf"
-      link:
-        href: "https://www.linkedin.com/in/pradoeduardoluiz/"
-        text: "@pradoeduardoluiz"
-      presentation:
-        title: "Scope Functions - Uma forma Kotlin de codar"
-        description: "Nesta talk nos aprofundaremos no que são scope functions, suas características e suas diferenças."
-        
     - name: "Jefferson Silva"
       photo: "/img/jeff.jpg"
+      time: "08h50"
       bio: "Desenvolvedor na Code 21, uma software house de Curitiba focada, entre outras coisas, no desenvolvimento utilizando as tecnologias Microsoft."
       company: "Code 21"
       link:
@@ -147,41 +95,21 @@ params:
       presentation:
         title: "Uma jornada serverless com Kotlin e Azure"
         description: "Abordaremos um fluxo no padrão Saga implementado utilizando Azure functions com Kotlin"
-
-    - name: "Gabriel Machado"
-      photo: "/img/gabriel.jpg"
-      bio: "Desenvolvedor backend há 3 anos, entusiasta de Kotlin há 2. Cursando Sistemas de Informação na UFSC."
-      company: "Aurum Software"
+    
+    - name: "Renan Narciso"
+      photo: "/img/renan.png"
+      time: "09h30"
+      bio: "Trabalhou como desenvolvedor de software no parque tecnológico da UFRJ para empresas como Siemens e Petrobrás. Carioca, 23 anos e formado em Sistemas de Informação - UGRIO."
+      company: ""
       link:
-        href: "https://www.linkedin.com/in/gabriel-machado-da-roza/"
-        text: "@gabriel"
+        href: "https://www.linkedin.com/in/renannarciso"
+        text: "@rennannarciso"
       presentation:
-        title: "O que há de novo em Spring + Kotlin"
-        description: "Veremos projetos que estão sendo desenvolvidos pela Pivotal e a comunidade para tornar a integração entre a linguagem e o framework mais idiomática o possível."
-
-    - name: "Fran Luz"
-      photo: "/img/fran.jpg"
-      bio: "Analista de Sistemas Java, experiencia de oito anos de mercado."
-      company: "GFT"
-      link:
-        href: "https://www.linkedin.com/in/francielle-oliveira-da-luz-8b160046/"
-        text: "@francielle"
-      presentation:
-        title: "Kotlin funcional e divertido"
-        description: "Mostrarei como usar kotlin no backend com Java, também como é fácil desenvolver para aplicação Mobile e farei uma demonstração de como traduzir uma classe de kotlin para Java"
-
-    - name: "Felipe Costa"
-      photo: "/img/felipe.jpeg"
-      bio: "Profissional de software apaixonado. Atua como desenvolvedor, principalmente, para dispositivos móveis desde 2011 e fazendo-o principalmente em Kotlin desde 2016."
-      company: "OLX"
-      link:
-        href: "https://br.linkedin.com/in/felipehjcosta"
-        text: "@felipehjcosta"
-      presentation:
-        title: "Reuso de código com Kotlin Multiplataforma"
-        description: "Essa palestra visa apresentar o conceito de multiplataforma do Kotlin, com suas vantagens e desvantagens, e como esse conceito é diferente de soluções cross-platform no que tange a reuso de código entre plataformas. Por fim, será mostrado a aplicação desse conceito em um simples chat feito com kotlin para web, android e iOS além de algumas referências."
+        title: "Análise comparativa entre Java e Kotlin: Um desenvolvimento experimental em aplicações móveis"
+        description: "Nesta palestra, iremos falar sobre as duas linguagens e mostrar resultados de um caso de estudo onde foi utilizado métricas como tempo de desenvolvimento, linhas de código, desempenho e usabilidade."
     
     - name: "Fabrício Rissetto"
+      time: "09h55"
       photo: "/img/fabricio.jpg"
       bio: "Atuo como arquiteto de software desenvolvendo domínios complexos com os mais diversos tipos de business e tecnologias. Ativo em comunidades de desenvolvimento como coordenador de eventos, treinamentos e palestras. Atualmente tenho dedicado boa parte do meu tempo arquitetando e mantendo microserviços na Creditas, utilizando Kotlin, Ruby, DDD, Ember, React, Kafka, dentre outras buzzwords interessantes."
       company: ""
@@ -191,9 +119,34 @@ params:
       presentation:
         title: "Functional Domain Driven Design"
         description: "Um dos pensamentos que domina a mente de muitas pessoas quando se fala de programação funcional é acreditar que o paradigma é excludente às práticas de orientação à objetos que já conhecemos. Quando, na verdade, a união dos dois pode nos trazer ainda mais vantagens. Nessa apresentação queremos desmistificar esse pensamento e mostrar que sim, é possível utilizar as duas práticas em conjunto para construir aplicações de alta qualidade. Descubra como trouxemos para dentro do DDD, design conhecido por ser extremamente orientado à objetos, elementos funcionais como Monads, Imutabilidade e Higher Order Functions, construindo um domínio 100% puro."
-    
+      
+    - name: "Natan Streppel"
+      photo: "/img/natan.jpg"
+      time: "11h05"
+      bio: "Desenvolvedor há mais de 6 anos com grande interesse em qualidade de código e arquiteturas escaláveis, trabalha atualmente utilizando Go e Kotlin na bornlogic."
+      company: "Contabilizei"
+      link:
+        href: "https://br.linkedin.com/in/natanstreppel"
+        text: "@natanstreppel"
+      presentation:
+        title: "gRPC + Kotlin = Great Success"
+        description: ""
+
+    - name: "Thiago Alexandre Lenz"
+      photo: "/img/thiago.jpg"
+      time: "13h20"
+      bio: "Trabalha com desenvolvimento de software há mais de 12 anos. Formado em Análise de Sistemas, pós graduado na área de engenharia de software pela UTFPR e MBA em Arquitetura de Software pelo IGTI."
+      company: "Contabilizei"
+      link:
+        href: "https://medium.com/@thiagolenz"
+        text: "@thiagolenz"
+      presentation:
+        title: "Transformação Otimizada de Objetos em Kotlin"
+        description: "Para quem vem do mundo java sabe como é verboso uma conversão de um objeto DTO para uma entidade (vice-versa) ou ainda a conversão de coleções de um tipo para outro (Lista para mapa, mapa para lista). Java 8 trouxe muita simplificação com o uso de lambdas, mas mesmo assim não é o suficiente. Essas palestra apresenta como esse problema pode ser resolvido de forma inteligente e rápida em Kotlin, escrevendo menos código de transformação e mais código de negócio, com entrega de valor."
+  
     - name: "Clécius J. Martinkoski"
       photo: "/img/clecius2.jpg"
+      time: "14h15"
       bio: "CTO e Co-Founder na e-Precise fã inveterado da JVM recentemente convertido ao Kotlin e host no PodTag nas horas vagas"
       company: ""
       link:
@@ -203,3 +156,67 @@ params:
         title: "Cloud Native Kotlin com Quarkus e Kubernetes"
         description: "Supersonic Subatomic Kotlin. Aprenda como construir aplicações prontas para nuvem com Kotlin, Quarkus e Kubernetes. Serão abordados preceitos como 12 fatores, otimizações da JVM e dicas de arquitetura para aplicações em Cloud."
     
+
+    - name: "Gabriel Machado"
+      photo: "/img/gabriel.jpg"
+      time: "15h05"
+      bio: "Desenvolvedor backend há 3 anos, entusiasta de Kotlin há 2. Cursando Sistemas de Informação na UFSC."
+      company: "Aurum Software"
+      link:
+        href: "https://www.linkedin.com/in/gabriel-machado-da-roza/"
+        text: "@gabriel"
+      presentation:
+        title: "O que há de novo em Spring + Kotlin"
+        description: "Veremos projetos que estão sendo desenvolvidos pela Pivotal e a comunidade para tornar a integração entre a linguagem e o framework mais idiomática o possível."
+  
+    - name: "Coffee Break"
+      time: "15h45"
+      
+    - name: "Luiz Eduardo do Prado"
+      photo: "/img/luiz.jpg"
+      time: "16h15"
+      bio: "Desenvolvedor Android na Pixelwolf, Pós Graduado em Engenharia de Software e Pós Graduando em App Development. 9 anos na área da Tecnologia e recém chegado no desenvolvimento mobile."
+      company: "Pixelwolf"
+      link:
+        href: "https://www.linkedin.com/in/pradoeduardoluiz/"
+        text: "@pradoeduardoluiz"
+      presentation:
+        title: "Scope Functions - Uma forma Kotlin de codar"
+        description: "Nesta talk nos aprofundaremos no que são scope functions, suas características e suas diferenças."
+
+    - name: "Felipe Costa"
+      photo: "/img/felipe.jpeg"
+      time: "16h45"
+      bio: "Profissional de software apaixonado. Atua como desenvolvedor, principalmente, para dispositivos móveis desde 2011 e fazendo-o principalmente em Kotlin desde 2016."
+      company: "OLX"
+      link:
+        href: "https://br.linkedin.com/in/felipehjcosta"
+        text: "@felipehjcosta"
+      presentation:
+        title: "Reuso de código com Kotlin Multiplataforma"
+        description: "Essa palestra visa apresentar o conceito de multiplataforma do Kotlin, com suas vantagens e desvantagens, e como esse conceito é diferente de soluções cross-platform no que tange a reuso de código entre plataformas. Por fim, será mostrado a aplicação desse conceito em um simples chat feito com kotlin para web, android e iOS além de algumas referências."
+
+    - name: "Fran Luz"
+      photo: "/img/fran.jpg"
+      time: "17h40"
+      bio: "Analista de Sistemas Java, experiencia de oito anos de mercado."
+      company: "GFT"
+      link:
+        href: "https://www.linkedin.com/in/francielle-oliveira-da-luz-8b160046/"
+        text: "@francielle"
+      presentation:
+        title: "Kotlin funcional e divertido"
+        description: "Mostrarei como usar kotlin no backend com Java, também como é fácil desenvolver para aplicação Mobile e farei uma demonstração de como traduzir uma classe de kotlin para Java"
+  
+  
+    - name: "Paulo Henrique Figueredo"
+      photo: "/img/ph.jpeg"
+      time: "18h05"
+      bio: "Desenvolvedor Full Stack, com 5 anos de experiência, trabalhou na PRODEB(Processamento de dados da Bahia), PGE(Procuradoria Geral do Estado) e atualmente trabalha na Contabilizei em Curitiba, utiliza Kotlin com a JMV há 4 meses e entes disso havia trabalhado com Android(Kotlin) em um projeto de 5 meses."
+      company: "Contabilizei"
+      link:
+        href: "https://twitter.com/PauloDSHenrique"
+        text: "@PauloDSHenrique"
+      presentation:
+        title: "Mudança de paradigma, interoperabilidade com java e JVMcmd"
+        description: "O kotlin e o java são linguagens muito próximas pois ambos são executados na JVM ainda assim o kotlin deve ser tratado com a sua respectiva metodologia de desenvolvimento e paradigma, para poder extrair o seu poder total preservando a interoperabilidade saudável com java. Meu nome é Paulo Henrique, trabalho na contabilizei a 5 meses, essa palestra tem como objetivo abordar as mudanças de paradigma de programação entre kotlin e java considerando o melhor uso do kotlin e a interoperabilidade com java e como resolver possíveis desafios encontrado ao interoperar essas duas linguagens, e por fim, a utilização de comandos da JVM para otimizar a compilação do código kotlin."
