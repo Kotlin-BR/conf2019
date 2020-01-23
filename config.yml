@@ -81,6 +81,7 @@ params:
   Schedule:
     - name: "Check-in / Credenciamento"
       time: "08h00"
+      bio: "Contaremos com lanches disponibilizados pela Contabilizei"
 
     - name: "Abertura"
       time: "08h30"
@@ -177,6 +178,7 @@ params:
   
     - name: "Coffee Break"
       time: "15h45"
+      bio: "Coffee-break disponibilizado pela Contabilizei"
       
     - name: "Luiz Eduardo do Prado"
       photo: "/img/luiz.jpg"
