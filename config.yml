@@ -148,7 +148,7 @@ params:
       time: "14h15"  
       photo: "/img/clecius2.jpg"
       bio: "CTO e Co-Founder na e-Precise fã inveterado da JVM recentemente convertido ao Kotlin e host no PodTag nas horas vagas"
-      company: ""
+      company: "e-Precise"
       link:
         href: "https://twitter.com/cjmartinkoski"
         text: "@cjmartinkoski"
