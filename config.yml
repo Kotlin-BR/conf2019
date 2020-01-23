@@ -124,7 +124,7 @@ params:
       time: "11h05"  
       photo: "/img/natan.jpg"
       bio: "Desenvolvedor há mais de 6 anos com grande interesse em qualidade de código e arquiteturas escaláveis, trabalha atualmente utilizando Go e Kotlin na bornlogic."
-      company: "Contabilizei"
+      company: "bornlogic"
       link:
         href: "https://br.linkedin.com/in/natanstreppel"
         text: "@natanstreppel"
