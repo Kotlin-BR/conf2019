@@ -61,21 +61,22 @@ params:
 
   # List of Sponsors
   Sponsors:
+    - name: "Contabilizei"
+      logo: "/img/contabilizei.png"
+      url: "https://www.contabilizei.com.br"
+    - name: "bornlogic"
+      logo: "/img/bl.jpg"
+      url: "http://www.bornlogic.com"
     - name: "Jetbrains"
       logo: "/img/jetbrains.svg"
       url: "https://www.jetbrains.com"
 
   # List of Partners
   Partners:
-    - name: "Contabilizei"
-      logo: "/img/contabilizei.png"
-      url: "https://www.contabilizei.com.br"
     - name: "Women Techmakers"
       logo: "/img/wtm.png"
       url: "https://www.meetup.com/Women-Techmakers-Curitiba/"
-    - name: "bornlogic"
-      logo: "/img/bl.jpg"
-      url: "http://www.bornlogic.com"
+  
   # The entire schedule
   Schedule:
     - name: "Check-in / Credenciamento"
