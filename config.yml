@@ -70,6 +70,9 @@ params:
     - name: "Contabilizei"
       logo: "/img/contabilizei.png"
       url: "https://www.contabilizei.com.br"
+    - name: "Women Techmakers"
+      logo: "/img/wtm.png"
+      url: "https://www.meetup.com/Women-Techmakers-Curitiba/"
 
   # The entire schedule
   Schedule:
