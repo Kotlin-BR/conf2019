@@ -114,7 +114,7 @@ params:
     - name: "Fabrício Rissetto"
       photo: "/img/fabricio.jpg"
       bio: "Atuo como arquiteto de software desenvolvendo domínios complexos com os mais diversos tipos de business e tecnologias. Ativo em comunidades de desenvolvimento como coordenador de eventos, treinamentos e palestras. Atualmente tenho dedicado boa parte do meu tempo arquitetando e mantendo microserviços na Creditas, utilizando Kotlin, Ruby, DDD, Ember, React, Kafka, dentre outras buzzwords interessantes."
-      company: ""
+      company: "Creditas"
       link:
         href: "http://fabriciorissetto.com/blog/"
         text: "blog"
